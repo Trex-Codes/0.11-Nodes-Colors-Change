@@ -1,0 +1,91 @@
+#contentBody{
+	width: 1500;
+	height: 700px;
+	background-color: lightgreen;
+}
+
+#TitleContent{
+	font-family: sans-serif;
+	font-size: 70px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#fatherNod{
+	background-color: brown;
+	width: 75;
+	height: 75;
+	position: relative;
+	margin-left: 760;
+}
+
+#son1_Sub1{
+	background-color: grey;
+	width: 75;
+	height: 75;
+	margin-left: 550;
+	position: relative;
+	top: 30;
+}
+
+#son1_Sub2{
+	background-color: navy;
+	width: 75;
+	height: 75;
+	margin-left: 940;
+	position: relative;
+	bottom: 40;
+}
+
+#fa1_sub1{
+	background-color: cyan;
+	width: 75;
+	height: 75;
+	position: relative;
+	margin-left: 680;
+	top: 30;
+}
+
+#fa1_Sub2{
+	background-color: indigo;
+	width: 75;
+	height: 75;
+	position: relative;
+	margin-left: 400;
+	bottom: 50;
+}
+
+#fa2_sub1{
+	background-color: magenta;
+	width: 75;
+	height: 75;
+	position: relative;
+	margin-left: 820;
+	bottom: 120;
+}
+
+#fa2_Sub2{
+	background-color: seagreen;
+	width: 75;
+	height: 75;
+	position: relative;
+	margin-left: 1050;
+	bottom: 195;
+}
+
+#cuadroSun{
+	display: none;
+	visibility: hidden;
+}
+
+#cuadroSun2{
+	display: none;
+	visibility: hidden;
+}
+
+#cuadroSun3{
+	display: none;
+	visibility: hidden;
+}
+
+
