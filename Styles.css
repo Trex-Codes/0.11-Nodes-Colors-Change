@@ -1,6 +1,6 @@
 #contentBody{
-	width: 1500;
-	height: 700px;
+	width: 1200;
+	height: 680px;
 	background-color: lightgreen;
 }
 
@@ -73,12 +73,12 @@
 	bottom: 195;
 }
 
-#cuadroSun{
+#cuadrofather{
 	display: none;
 	visibility: hidden;
 }
 
-#cuadroSun2{
+#cuadroSon1{
 	display: none;
 	visibility: hidden;
 }
@@ -88,4 +88,18 @@
 	visibility: hidden;
 }
 
+button.btns2{
+	margin-left: 200;
+}
 
+button.btns3{
+	margin-left: 350;
+}
+
+.btnsHoover:hover{
+	border: 1px solid black;
+}
+
+.divRects{
+	border: 1px solid black;
+}
