@@ -1,10 +1,10 @@
 // cuadroColor
 
 function FatherCall() {
+	
 	const callColorSun = document.getElementById('cuadrofather');
 	callColorSun.style.display = 'inherit';
 	callColorSun.style.visibility = 'visible';
-
 }
 
 // call colors and and funcions
