@@ -1,4 +1,4 @@
-# 0.10-Nodes-Colors-Change
+# Nodes-Colors-Change
 ## Tables with programming which allows changing their row with different colors
 
 ## Starting 📐
@@ -21,4 +21,3 @@ _Contributions will not be accepted as it is a personal project so only the owne
 
 ## License 📄
 _This project is MIT licensed, as found in the LICENSE file. you can look from here_ [LICENSE.md](https://github.com/Trex-Codes/0.10-Nodes-Colors-Change/blob/master/LICENSE)
-
